@@ -28,11 +28,6 @@
 Please run the following commands to host a server:
 
 ```
-git clone https://github.com/NightProxy/space.git
-cd Space
-pnpm i
-pnpm start
-```
 
 ### Updating
 
